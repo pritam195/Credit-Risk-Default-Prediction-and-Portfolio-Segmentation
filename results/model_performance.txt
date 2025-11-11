@@ -1,0 +1,28 @@
+
+CREDIT RISK DEFAULT PREDICTION - PERFORMANCE REPORT
+===================================================
+
+MODEL PERFORMANCE:
+• Selected Model: Random Forest
+• Accuracy: 0.966
+• AUC-ROC: 0.962
+• Portfolio Size: 5,000 borrowers
+• Actual Default Rate: 3.64%
+
+KEY RISK DRIVERS IDENTIFIED:
+  1. credit_score (Importance: 0.181)
+  2. annual_income (Importance: 0.143)
+  3. debt_to_income_ratio (Importance: 0.134)
+  4. credit_utilization_ratio (Importance: 0.084)
+  5. age (Importance: 0.082)
+
+BUSINESS IMPACT:
+• Enhanced credit risk assessment accuracy
+• Early-warning system for portfolio monitoring
+• Data-driven decision support for underwriting
+• Improved risk-based pricing capabilities
+
+PORTFOLIO SEGMENTATION:
+• Risk bands established for targeted monitoring
+• Exposure concentration analysis
+• Default probability calibration
